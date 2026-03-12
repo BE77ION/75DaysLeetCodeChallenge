@@ -7,12 +7,12 @@ public:
 
         while(left<=right){
             int mid=(left+right)/2;
-            if(nums[mid]<mini){
-                mini=nums[mid];
-            }else if(nums[left]>nums[right]&&nums[mid]>nums[right]){
+            if(nums[mid]>=nums[left]){
+                mini=min(mini,nums[left]);
                 left=mid+1;
             }else{
                 right=mid-1;
+                mini=min(mini,nums[mid]);
             }
         }
         return mini;
