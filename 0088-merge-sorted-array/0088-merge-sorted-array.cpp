@@ -1,24 +1,27 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int left=m-1;
-        int right=0;
-        while(left>=0&&right<n){
-            if(nums1[left]>nums2[right]){
-                swap(nums1[left],nums2[right]);
-                right++;
-                left--;
+        vector<int>temp;
+        int i=0;
+        int j=0;
+        while(i<m&&j<n){
+            if(nums1[i]<=nums2[j]){
+                temp.push_back(nums1[i++]);
             }else{
-                break;
+                temp.push_back(nums2[j++]);
             }
         }
-        sort(nums1.begin(),nums1.begin()+m);
-        sort(nums2.begin(),nums2.end());
-        for(int i=m;i<m+n;i++){
-            nums1[i]=nums2[i-m];
+        while(i<m){
+            temp.push_back(nums1[i++]);
+        }
+        while(j<n){
+            temp.push_back(nums2[j++]);
+        }
+
+        for(int i=0;i<m+n;i++){
+            nums1[i]=temp[i];
         }
     }
 };
-// approch 2 better
-//here tc is O(min(n,m))+o(nlogn)+o(nlogn);
-//sc=o(1);
+//tc: o(n+m)+o(n+m);
+//sc:o(n+m);
