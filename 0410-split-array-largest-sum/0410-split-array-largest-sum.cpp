@@ -1,6 +1,6 @@
 class Solution {
 public:
-int possible(vector<int>& nums, int k,int m){
+bool possible(vector<int>& nums, int k,int m){
     int sum=0;
     int split=1;
     for(int i=0;i<nums.size();i++){
@@ -11,7 +11,7 @@ int possible(vector<int>& nums, int k,int m){
             split++;
         }
     }
-    return split;
+    return split<=k;
 }
     int splitArray(vector<int>& nums, int k) {
         int maxe=*max_element(nums.begin(),nums.end());
@@ -20,7 +20,7 @@ int possible(vector<int>& nums, int k,int m){
         int right=maxc;
         while(left<=right){
             int mid=left+(right-left)/2;
-            if(possible(nums,k,mid)<=k){
+            if(possible(nums,k,mid)){
                 right=mid-1;
             }else{
                left=mid+1;
