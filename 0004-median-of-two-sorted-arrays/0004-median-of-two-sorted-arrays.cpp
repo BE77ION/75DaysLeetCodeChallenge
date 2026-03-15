@@ -1,34 +1,47 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        vector<int>merge;
-        int left=0;
-        int right=0;
-        while(left<nums1.size()&&right<nums2.size()){
-            if(nums1[left]<nums2[right]){
-                merge.push_back(nums1[left]);
-                left++;
-            }else{
-                merge.push_back(nums2[right]);
-                right++;
+        int n1=nums1.size();
+        int n2=nums2.size();
+        int n=n1+n2;
+        int idx2=n/2;
+        int idx1=idx2-1;
+        int i=0;
+        int j=0;
+        int count=0;
+        int ele1=-1;
+        int ele2=-2;
+        while(i<nums1.size()&&j<nums2.size()){
+            if(nums1[i]<nums2[j]){
+            if(count==idx1)ele1=nums1[i];
+            if(count==idx2)ele2=nums1[i];
+            count++;
+            i++;
+            }
+            else{
+                if(count==idx1)ele1=nums2[j];
+            if(count==idx2)ele2=nums2[j];
+            count++;
+            j++;
             }
         }
-        while(left<nums1.size()){
-            merge.push_back(nums1[left]);
-                left++;
+        while(i<nums1.size()){
+            if(count==idx1)ele1=nums1[i];
+            if(count==idx2)ele2=nums1[i];
+            count++;
+            i++;
         }
-        while(right<nums2.size()){
-            merge.push_back(nums2[right]);
-                right++;
+        while(j<nums2.size()){
+             if(count==idx1)ele1=nums2[j];
+            if(count==idx2)ele2=nums2[j];
+            count++;
+            j++;
         }
-        int n=merge.size();
         
         if(n%2==1){
-            return merge[n/2];
-        }else{
-            double x=merge[n/2]+merge[(n/2)-1];
-            return x/2;
+            return ele2;
         }
-        return -1;
+        return (double)(ele1+ele2)/2;
+
     }
 };
