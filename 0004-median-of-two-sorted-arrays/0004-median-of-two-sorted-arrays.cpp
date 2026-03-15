@@ -12,6 +12,7 @@ public:
         int ele1=-1;
         int ele2=-2;
         while(i<nums1.size()&&j<nums2.size()){
+            if(count > idx2) break;
             if(nums1[i]<nums2[j]){
             if(count==idx1)ele1=nums1[i];
             if(count==idx2)ele2=nums1[i];
