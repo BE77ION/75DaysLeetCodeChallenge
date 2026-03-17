@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
 |  |
@@ -103,10 +107,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
