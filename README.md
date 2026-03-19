@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
