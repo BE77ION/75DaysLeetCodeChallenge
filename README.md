@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bucket Sort
 |  |
 | ------- |
