@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## Bucket Sort
