@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
