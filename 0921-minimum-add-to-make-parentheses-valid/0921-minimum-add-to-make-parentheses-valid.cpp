@@ -1,17 +1,15 @@
 class Solution {
 public:
     int minAddToMakeValid(string s) {
-        int close=0;
         int open=0;
+        int add=0;
         for(auto i:s){
-           
-            if(i==')'){
-                close++;
-            }else{
-                open++;
+            if(i=='(')open++;
+            else{
+                if(open>0)open--;
+                else add++;
             }
-           
         }
-        return abs(open-close);
+        return open +add;
     }
 };
