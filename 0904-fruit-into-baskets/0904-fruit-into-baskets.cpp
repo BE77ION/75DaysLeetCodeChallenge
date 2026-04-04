@@ -7,7 +7,7 @@ public:
         unordered_map<int,int>mp;
         for(int i=0;i<n;i++){
             mp[fruits[i]]++;
-            while(mp.size()>2){
+            if(mp.size()>2){
                 mp[fruits[left]]--;
                 if(mp[fruits[left]]==0){
                     mp.erase(fruits[left]);
