@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
