@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
