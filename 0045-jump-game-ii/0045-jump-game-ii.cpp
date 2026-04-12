@@ -10,7 +10,7 @@ public:
                 farthest=max(i+nums[i],farthest);
             }
             
-            l=r+1;
+            l=l+1;
             r=farthest;
             jumps=jumps+1;
         }
