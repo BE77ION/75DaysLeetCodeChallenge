@@ -310,4 +310,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
