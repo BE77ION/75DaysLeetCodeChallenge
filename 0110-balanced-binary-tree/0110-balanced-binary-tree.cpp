@@ -16,17 +16,13 @@ int hight(TreeNode* root){
         return 0;
     }
     int l=hight(root->left);
+    if(l == -1)return -1;
     int r=hight(root->right);
-    
+    if(r == -1)return -1;
+    if(abs(l-r)>1)return -1;
     return 1+max(l,r);
 }
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        int lh=hight(root->left);
-        int rh=hight(root->right);
-        if(abs(lh-rh)<=1&&isBalanced(root->left)&&isBalanced(root->right))return true;
-        return false;
+        return  hight(root)!=-1;
     }
 };
