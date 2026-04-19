@@ -15,11 +15,21 @@ public:
         if(root==NULL){
             return false;
         }
-       
-        if(root->left==NULL&&root->right==NULL){
-            return targetSum==root->val;
+        stack<pair<TreeNode*,int>>st;
+        st.push({root,root->val});
+        while(!st.empty()){
+            pair<TreeNode*,int>p=st.top();
+            st.pop();
+            if(p.first->left==NULL&&p.first->right==NULL&&p.second==targetSum){
+                return true;
+            }
+            if(p.first->left!=NULL){
+                st.push({p.first->left,p.second+p.first->left->val});
+            } 
+            if(p.first->right!=NULL){
+                st.push({p.first->right,p.second+p.first->right->val});
+            }
         }
-        targetSum-=root->val;
-        return hasPathSum(root->left,targetSum)||hasPathSum(root->right,targetSum);
+        return false;
     }
 };
