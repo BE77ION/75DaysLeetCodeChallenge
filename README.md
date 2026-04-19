@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
