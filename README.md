@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0904-fruit-into-baskets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -362,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String Matching
 |  |
 | ------- |
