@@ -1,5 +1,5 @@
 struct Node{
-    Node*links[26];
+    Node*links[26]={NULL};
     bool flag=false;
     bool containkey(char ch){
         return (links[ch-'a']!=NULL);    
