@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
