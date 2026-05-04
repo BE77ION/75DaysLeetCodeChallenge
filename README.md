@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
