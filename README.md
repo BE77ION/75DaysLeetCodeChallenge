@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2540-minimum-common-value](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/BE77ION/75DaysLeetCodeChallenge/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
