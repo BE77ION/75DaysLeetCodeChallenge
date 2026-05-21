@@ -6,13 +6,14 @@ public:
             mp[i]++;
         }
         vector<pair<int,int>>pairs(mp.begin(),mp.end());
-        sort(pairs.begin(),pairs.end(),[](pair<int,int>&a,pair<int,int>&b){
+        sort(pairs.begin(),pairs.end(),[](auto &a,auto &b){
             return a.second>b.second;
         });
         vector<int>ans;
-        for(int i=0;i<pairs.size();i++){
+
+        for(auto i:pairs){
             if(k>0){
-                ans.push_back(pairs[i].first);
+                ans.push_back(i.first);
                 k--;
             }
         }
