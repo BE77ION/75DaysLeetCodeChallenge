@@ -2,15 +2,15 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         if(s.size()!=t.size())return false;
-        unordered_map<int,int>mp;
+        int mp[26]={0};
         for(auto i:s){
-            mp[i]++;
+            mp[i-'a']++;
         }
         for(auto i:t){
-            mp[i]--;
+            mp[i-'a']--;
         }
         for(auto i:mp){
-            if(i.second>0){
+            if(i>0){
                 return false;
             }
         }
