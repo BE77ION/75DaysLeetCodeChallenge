@@ -5,20 +5,17 @@ public:
         for(auto i:nums){
             mp[i]++;
         }
-        vector<vector<int>>pairs(nums.size()+1);
-       for(auto i:mp){
-        pairs[i.second].push_back(i.first);
-       }
+        vector<pair<int,int>>pairs(mp.begin(),mp.end());
+        sort(pairs.begin(),pairs.end(),[](auto &a,auto&b){
+            return a.second>b.second;
+        });
         vector<int>ans;
-
-        for(int i=pairs.size()-1;i>=0;i--){
-            for(auto x:pairs[i]){
-                ans.push_back(x);
-                if(ans.size()==k){
-                    return ans;
-                }
+        for(auto i:pairs){
+            if(k>0){
+                ans.push_back(i.first);
             }
+            k--;
         }
-        return {};
+        return ans;
     }
 };
